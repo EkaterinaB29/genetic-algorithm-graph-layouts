@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sirius:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sirius_jar</output-path>
+    <root id="archive" name="sirius.jar">
+      <element id="module-output" name="sirius" />
+    </root>
+  </artifact>
+</component>
